@@ -1,0 +1,38 @@
+rosbag2_bagfile_information:
+  version: 5
+  storage_identifier: sqlite3
+  duration:
+    nanoseconds: 193031970966
+  starting_time:
+    nanoseconds_since_epoch: 1783684266744549315
+  message_count: 15247
+  topics_with_message_count:
+    - topic_metadata:
+        name: /kinematic_state
+        type: curobot_msgs/msg/KinematicState
+        serialization_format: cdr
+        offered_qos_profiles: "- history: 3\n  depth: 0\n  reliability: 2\n  durability: 2\n  deadline:\n    sec: 9223372036\n    nsec: 854775807\n  lifespan:\n    sec: 9223372036\n    nsec: 854775807\n  liveliness: 1\n  liveliness_lease_duration:\n    sec: 9223372036\n    nsec: 854775807\n  avoid_ros_namespace_conventions: false"
+      message_count: 6419
+    - topic_metadata:
+        name: /ackermann_drive
+        type: ackermann_msgs/msg/AckermannDrive
+        serialization_format: cdr
+        offered_qos_profiles: "- history: 3\n  depth: 0\n  reliability: 1\n  durability: 2\n  deadline:\n    sec: 9223372036\n    nsec: 854775807\n  lifespan:\n    sec: 9223372036\n    nsec: 854775807\n  liveliness: 1\n  liveliness_lease_duration:\n    sec: 9223372036\n    nsec: 854775807\n  avoid_ros_namespace_conventions: false"
+      message_count: 6431
+    - topic_metadata:
+        name: /ackermann_drive_feedback
+        type: ackermann_msgs/msg/AckermannDrive
+        serialization_format: cdr
+        offered_qos_profiles: "- history: 3\n  depth: 0\n  reliability: 1\n  durability: 2\n  deadline:\n    sec: 9223372036\n    nsec: 854775807\n  lifespan:\n    sec: 9223372036\n    nsec: 854775807\n  liveliness: 1\n  liveliness_lease_duration:\n    sec: 9223372036\n    nsec: 854775807\n  avoid_ros_namespace_conventions: false"
+      message_count: 2397
+  compression_format: ""
+  compression_mode: ""
+  relative_file_paths:
+    - rosbag2_2026_07_10-13_51_06_0.db3
+  files:
+    - path: rosbag2_2026_07_10-13_51_06_0.db3
+      starting_time:
+        nanoseconds_since_epoch: 1783684266744549315
+      duration:
+        nanoseconds: 193031970966
+      message_count: 15247

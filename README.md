@@ -6,7 +6,7 @@ crash-free laps from multiple starting positions.
 
 **Prepared by:** Anirudh Reddy Masireddy (Model & Training), Ben Bauerfeind (Data
 Collection & Analysis) &nbsp;|&nbsp; **Supervised by:** Prof. Dr. Andreas Look
-&nbsp;|&nbsp; **Repository:** <https://git.hs-coburg.de/ben8171s/Scientific_Colloquium_Dagger>
+&nbsp;|&nbsp;
 
 ## 1. Introduction
 
